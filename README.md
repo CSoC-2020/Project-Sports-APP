@@ -13,6 +13,7 @@ ADVANTAGE: This will help many young minds to participate in sports and they can
 TECH STACK: 
 
 Front end development- Bootstrap Framework
+
 full stack - Django , Node.js, play 
 
 Web servicers- nginx Languages- javascript Templating language- pug
